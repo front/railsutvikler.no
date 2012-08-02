@@ -1,0 +1,22 @@
+---
+layout: post
+title: Hvordan vi jobber
+---
+
+## Metodikk
+Agile, PM, sprinter. Verktøy.
+
+## Kontorer i Fredrikstad og Madeira
+Bilder.
+
+## Outsourcing
+Flere av våre dyktigste på Ruby on Rails, er frilansere fra rundt om i Europa. En miks av rimelig
+
+## Design, prosjektledelse og rådgivning
+
+
+## Apps?
+-> http://www.apputvikling.no
+
+## CMS
+-> http://www.front.no

@@ -1,0 +1,49 @@
+---
+layout: default
+title: Kontakt oss
+---
+<div class="row">
+  <div class="span8">
+    <form class="form-horizontal" method="post" action="mailme.php">
+        <fieldset>
+          <legend>Ja, jeg ønsker tilbud på utvikling av applikasjon</legend>
+          <div class="control-group">
+            <label class="control-label" for="name">Navn/foretak</label>
+            <div class="controls">
+              <input type="text" class="span3" id="name" name="name">
+            </div>
+          </div>
+          <div class="control-group">
+            <label class="control-label" for="email">Min e-post</label>
+            <div class="controls">
+              <input type="text" class="span3" id="email" name="email">
+            </div>
+          </div>
+          <div class="control-group">
+            <label class="control-label" for="subject">Velg budsjett</label>
+            <div class="controls">
+              <select id="subject" name="subject">
+                <option>10 - 50k</option>
+                <option>50 - 100k</option>
+                <option>100 - 500k</option>
+                <option>Annet</option>        
+              </select>
+            </div>
+          </div>
+
+          <div class="control-group">
+            <label class="control-label" for="message">Beskrivelse</label>
+            <div class="controls">
+              <textarea class="input-xlarge" rows="3" id="message" name="message"></textarea>
+            </div>
+          </div>
+          <div class="form-actions">
+            <button type="submit" class="btn btn-primary">Send forespørsel</button>
+          </div>
+        </fieldset>
+    </form>
+  </div>
+  <div class="span4">
+    <img src="/img/app-utvikling-iphone-android.png" />
+  </div>
+</div>

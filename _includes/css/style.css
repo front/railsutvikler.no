@@ -1,0 +1,90 @@
+.center {
+  text-align: center;
+}
+
+body {
+  background: #efefef;
+}
+
+@media (min-width: 980px) {
+  body {
+    padding-top: 58px;
+  }
+}
+
+.page-header {
+  border-bottom: 1px solid #fff;
+  margin: 18px 0;
+  padding-bottom: 17px;
+}
+
+.icons-ios,
+.icons-android,
+.icons-html5,
+.icons-phonegap,
+.icons-blackberry,
+.icons-css3 {
+  background: url('../img/tool-icons.png') left 5px no-repeat;
+  padding-left: 44px;
+  padding-top: 10px;
+  line-height: 50px;
+  height: 50px;
+  display: block;
+}
+.icons-ios {
+  background-position: -0px -542px;
+}
+.icons-android {
+  background-position: -0px -415px;
+}
+.icons-html5 {
+  background-position: -0px -206px;
+}
+.icons-phonegap {
+  background-position: -0px -345px;
+}
+.icons-blackberry {
+  background-position: -0px -482px;
+}
+
+.icons-ios a,
+.icons-android a,
+.icons-html5 a,
+.icons-phonegap a,
+.icons-blackberry a,
+.icons-css3 a {
+  line-height: 1;
+  display: block;
+}
+
+#posts img {
+  display: block;
+}
+
+.marketing {
+  margin-top: -19px;
+}
+
+.span4 h2 a {
+  font-size: 22px;
+}
+
+.span3 h3 {
+  color: #333;
+  margin: 0.5em 0;
+}
+
+.span3 h3 span {
+  font-size: 0.833333333em;
+}
+
+.span3 a.btn {
+  white-space: nowrap;
+}
+
+.form-horizontal .form-actions {
+  background: none;
+  border: none;
+  margin-top: 0;
+  padding-top: 1em;
+}
