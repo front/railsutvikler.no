@@ -1,0 +1,27 @@
+---
+layout: post
+title: Hvordan vi jobber
+---
+
+## Metodikk og verktøy
+De fleste av våre prosjekter gjøres agile, i former som tilpasses kunden. Når det gjelder prosjektverktøy, benytter vi velprøvde løsninger som fungerer:
+
+- Basecamp for enkel prosjektoversikt over todos, kalender og diskusjoner
+- Google docs for dokumenthåndtering
+- Dropbox for fildeling
+- Skype gruppechat for kontinuerlig kontakt
+- Fysiske møter; noen ganger er fysisk tilstedeværelse og kaffe et must
+
+## Kontorer i Fredrikstad og Madeira
+Våre kontorer i Fredrikstad 1t fra Oslo og 20min fra Rygge, gir umiddelbar nærhet til hele landet. Vi har også kontor på Madeira, hvor vi gjerne har med kunder for solrikt og lystbetont planlegging, utvikling eller ferie. I Fredrikstad er vi syv faste ansatte, mens vi i Maderia har fire faste ansatte.
+
+## Outsourcing
+I tillegg til faste ansatte utviklere på location, har vOver en 5-årsperiode har vi opparbeidet gode rutiner rundt outsourcing og kontrakter med det store utland. I et globalisert marked, er kompetansen viktigere en lokaliteten. Flere av våre dyktigste på Ruby on Rails, er uavhengige frilansere fra rundt om i Europa. Vi foretrekker å jobbe med utviklere som er sterke både faglig og språklig, og som er i vår egen tidssone. 
+
+Mange synes også det er vanskelig å vurdere kvaliteten på arbeidet som er gjort, når de ikke har tilstrekkelig kompetanse innen bestilling eller kodegjennomsyn. Fordelen med å jobbe med et etablert firma som kjenner teknologien, er at vi gir sikkerhet for arbeidet som gjøres, og gjør leveranser med norsk stolthet.
+
+## Design, prosjektledelse og rådgivning
+Ikke bare gjør vi applikasjonsutvikling for Ruby on Rails, men også grafisk design/UX og proff prosjektledelse. Vi understøtter også andre open source plattformer. Å ha en partner å sparre med for utvikling av flere aspekter enn de rent tekniske, kan være klokt for mindre bedrifter og startups. 
+
+## Om vårt nettverk
+Railsutvikler.no er en del av et lite men engasjert nettverk av utviklere som enten er ansatt hos Front Kommunikasjon AS, eller jobber som frilansere på kontrakt. Andre teknologier innen nettverket, er Django (Python), Drupal, Node.js, PHP, Android og iOS.
