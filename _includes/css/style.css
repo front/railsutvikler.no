@@ -18,6 +18,15 @@ body {
   padding-bottom: 17px;
 }
 
+img.rails {
+  margin-top: -20px;
+  margin-bottom: 20px;
+}
+
+h2 a {
+  color: #831832;
+}
+
 .icons-ios,
 .icons-android,
 .icons-html5,
