@@ -64,7 +64,8 @@ title: Ruby on Rails utvikler
               <h3>Kontakt oss</h3>
             </div>
             <div class="modal-body">
-              <form class="form-horizontal" method="post" action="/kontakt/mailme.php">
+              <form class="form-horizontal" method="post" action="http://getsimpleform.com/messages?form_api_token=3624a2bd5280795ce8c7a8652760e0ba">
+                <input type='hidden' name='redirect_to' value='http://railsutvikler.no/takk/' />
                 <fieldset>
                   <div class="control-group">
                     <label class="control-label" for="name">Navn/foretak</label>
@@ -105,7 +106,7 @@ title: Ruby on Rails utvikler
           </div>
           <div class="span4">
             <h1>Trenger du en Rails app?</h1><br>
-            <a data-toggle="modal" href="#myModal" class="btn btn-info btn-large">
+            <a href="/kontakt/" class="btn btn-info btn-large">
                <i class="icon-info-sign icon-white"></i> Kontakt oss for tilbud</a>
           </div>
         </div>

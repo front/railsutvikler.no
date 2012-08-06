@@ -1,0 +1,10 @@
+---
+layout: post
+title: Takk
+---
+
+## Takk!
+
+Tusen takk for din henvendelse; vi ser fram til å snakke med deg!
+
+![Lokalene med Rails-magic](http://placehold.it/1170x400)
