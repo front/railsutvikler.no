@@ -15,7 +15,7 @@ De fleste av våre prosjekter gjøres agile, i former som tilpasses kunden. Når
 ## Kontorer i Fredrikstad og Portugal
 Våre kontorer i Fredrikstad 1t fra Oslo og 20min fra Rygge, gir umiddelbar nærhet til hele landet. Vi har også kontor på Madeira, hvor vi gjerne har med kunder for solrik og lystbetont planlegging, utvikling eller ferie. I Fredrikstad er vi syv faste ansatte, mens vi i Maderia har fire faste ansatte.
 
-![Alt text](http://placehold.it/1170x400)
+![Lokalene med Rails-magic](http://placehold.it/1170x400)
 
 ## Outsourcing
 I tillegg til faste ansatte utviklere på location, har vOver en 5-årsperiode har vi opparbeidet gode rutiner rundt outsourcing og kontrakter med det store utland. I et globalisert marked, er kompetansen viktigere en lokaliteten. Flere av våre dyktigste på Ruby on Rails, er uavhengige frilansere fra rundt om i Europa. Vi foretrekker å jobbe med utviklere som er sterke både faglig og språklig, og som er i vår egen tidssone. 
