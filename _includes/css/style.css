@@ -1,9 +1,25 @@
-.center {
-  text-align: center;
+body {
+  font-size: 13px;
+  line-height: 1.61538462em;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  background: #F0EDE2;
 }
 
-body {
-  background: #efefef;
+p,
+input,
+button,
+select,
+textarea {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  line-height: 1.61538462em;
+}
+
+a {
+  color: #8d0d1c;
+}
+
+.center {
+  text-align: center;
 }
 
 @media (min-width: 980px) {
@@ -21,10 +37,27 @@ body {
 img.rails {
   margin-top: -20px;
   margin-bottom: 20px;
+  -webkit-border-bottom-right-radius: 9px;
+  -webkit-border-bottom-left-radius: 9px;
+  -moz-border-radius-bottomright: 9px;
+  -moz-border-radius-bottomleft: 9px;
+  border-bottom-right-radius: 9px;
+  border-bottom-left-radius: 9px;
 }
 
-h2 a {
-  color: #831832;
+h1, h1 a,
+h2, h2 a {
+  color: #8C0A1B;
+}
+
+h1 {
+  margin-bottom: 0.25em;
+}
+
+.marketing-byline {
+  color: #2f2f2f;
+  font-size: 14px;
+  text-transform: none;
 }
 
 .icons-ios,
@@ -74,8 +107,17 @@ h2 a {
   margin-top: -19px;
 }
 
+.span4 {
+  margin-bottom: 1.53846154em;
+}
+
 .span4 h2 a {
   font-size: 22px;
+}
+
+.span4 h1,
+.span8 h1 {
+  color: #303030;
 }
 
 .span3 h3 {
@@ -96,4 +138,13 @@ h2 a {
   border: none;
   margin-top: 0;
   padding-top: 1em;
+}
+
+.btn-large i {
+  margin: -2px 3px 2px 0;
+  vertical-align: middle;
+}
+
+footer .muted {
+  margin-bottom: 2em;
 }
