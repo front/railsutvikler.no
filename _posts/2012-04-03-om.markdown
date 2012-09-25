@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hvordan vi jobber
+description: Metodikk og verktøy. Outsourcing. Design, prosjektledelse og rådgivning.
 ---
 
 ## Metodikk og verktøy

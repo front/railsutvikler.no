@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Kjente nettsteder bygd med Ruby on Rails
+title: Kjente nettsteder bygget med Ruby on Rails
+description: Se listen over kjente nettsteder bygget med Ruby on Rails
 ---
 
 ## Kjente nettsteder bygd med Ruby on Rails

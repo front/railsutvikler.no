@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ressurser for Rails
+description: Mengden av blogginnlegg, tutorials og videoer er som kjent enorm, så her høydepunktene.
 ---
 
 # Ressurser for Ruby on Rails
