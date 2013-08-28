@@ -7,7 +7,7 @@
     <meta charset="utf-8">
     <title> {% if page.title %} {{ page.title }} | {% endif %} Ruby on Rails utviklere</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Utvikling av webapplikasjoner på Ruby on Rails. Kontakt oss i dag!">
+    {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
     <meta name="author" content="Front">
     <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,700,400italic,700italic" rel="stylesheet" type="text/css">
     <link href="/css/all.css" rel="stylesheet">
@@ -74,7 +74,7 @@
      <!-- Footer
       ================================================== -->
       <footer class="center">
-        <p class="muted"><a href="http://www.railsutvikler.no">Railsutvikler.no</a> er en avdeling av <a href="http://www.front.no">Front</a>, og har hovedkontor i vakre Gamlebyen i Fredrikstad.</p>
+        <p class="muted"><a href="http://www.railsutvikler.no">Railsutvikler.no</a> er en avdeling av <a href="http://www.frontkom.no">Frontkom</a>, og har hovedkontor i vakre Gamlebyen i Fredrikstad.</p>
       </footer>
 
     </div><!-- /container -->

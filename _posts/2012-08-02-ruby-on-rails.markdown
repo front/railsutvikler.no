@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hvorfor velge Ruby on Rails?
+description: Elsket av utviklere. Størst utbredelse. Effektiv utvikling. Mer kompetanse.
 ---
 
 ## Ruby on Rails: Elsket av utviklere
