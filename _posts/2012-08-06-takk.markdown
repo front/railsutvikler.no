@@ -7,4 +7,4 @@ title: Takk
 
 Tusen takk for din henvendelse; vi ser fram til å snakke med deg!
 
-![Lokalene med Rails-magic](http://placehold.it/1170x400)
+![Lokalene med Rails-magic](/img/team.jpg)
